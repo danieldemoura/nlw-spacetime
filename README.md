@@ -11,7 +11,7 @@
     <img src="./.github/preview.png" alt="Prévia do projeto finalizado">
 </p>
 
-🚀 [Acesse por esse link o projeto online](https://github.com/danieldemoura/nlw-spacetime)
+🚀 [Acesse por esse link o projeto online](https://danieldemoura.github.io/nlw-spacetime/)
 
 ### 👨‍💻 Tecnologias
 
