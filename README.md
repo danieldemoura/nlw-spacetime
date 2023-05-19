@@ -17,9 +17,13 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
+- HTML
+- CSS
 - Figma
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/RePWGzbzb9b0jTzcN1Ts91/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-(Community)>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
